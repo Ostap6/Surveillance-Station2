@@ -13,15 +13,9 @@
 
 ---
 ### Коммуникационная группа
-[Telegram Group]([https://t.me/Surveillance_9])
+[Telegram Group][https://t.me/Surveillance_9]
 
 ---
-### Чаевые
-If this code helps and you wish to support me:
-- [PayPal: https://paypal.me/wovow](https://paypal.me/wovow)
-
-- ![License](https://raw.githubusercontent.com/ohyeah521/coffee.jpg)
-
 
 ## [Surveillance Station 9.2.0-11289](https://archive.synology.com/download/Package/SurveillanceStation)
 
