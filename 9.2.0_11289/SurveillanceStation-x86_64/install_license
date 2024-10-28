@@ -31,7 +31,7 @@ process_file() {
 sleep 5
 
 
-# 处理每个文件
+# Обработка каждого файла
 process_file /var/packages/SurveillanceStation/target/lib  libssutils.so    https://github.com/ohyeah521/Surveillance-Station/raw/main/9.2.0_11289/SurveillanceStation-x86_64/libssutils.so     0644
 process_file /var/packages/SurveillanceStation/target/sbin sscmshostd       https://github.com/ohyeah521/Surveillance-Station/raw/main/9.2.0_11289/SurveillanceStation-x86_64/sscmshostd        0755
 process_file /var/packages/SurveillanceStation/target/sbin sscored          https://github.com/ohyeah521/Surveillance-Station/raw/main/9.2.0_11289/SurveillanceStation-x86_64/sscored           0755
