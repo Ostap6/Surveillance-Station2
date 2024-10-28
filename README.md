@@ -80,5 +80,5 @@ bash <(curl -L https://raw.githubusercontent.com/Ostap6/Surveillance-Station2/ma
 ```
 ---
 ### Принт-скрин
-![License]([https://github.com/Ostap6/Surveillance-Station2/blob/main/img/60.png])
+![License] [https://github.com/Ostap6/Surveillance-Station2/blob/main/img/60.png]
 
