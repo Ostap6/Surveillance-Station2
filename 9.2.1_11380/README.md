@@ -71,7 +71,7 @@ bash <(curl -L https://raw.githubusercontent.com/Ostap6/Surveillance-Station2/ma
 ```
 ---
 ### Принт-скрин 60 Лицензий
-https://github.com/Ostap6/Surveillance-Station2/blob/main/img/60.png
-
+- [License](https://github.com/Ostap6/Surveillance-Station2/blob/main/img/60.png)
+- [Download](https://global.synologydownload.com/download/Package/spk/SurveillanceStation/9.2.0-11289/SurveillanceStation-x86_64-9.2.0-11289.spk)
 
 
