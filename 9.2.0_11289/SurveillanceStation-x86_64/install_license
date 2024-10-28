@@ -2,7 +2,7 @@
 #bash <(curl -L https://github.com/ohyeah521/Surveillance-Station/raw/main/9.2.0_11289/SurveillanceStation-x86_64/install_license)
 
 
-# 屏蔽认证服务器
+# Блокировать сервер аутентификации
 if grep -q "synosurveillance.synology.com" /etc/hosts; then
   echo "already blocked license server: synosurveillance.synology.com."
 else
@@ -11,7 +11,7 @@ else
 fi
 
 
-# 定义处理文件的函数
+# Определить функции для обработки файлов
 process_file() {
   local dir="$1"
   local file="$2"
