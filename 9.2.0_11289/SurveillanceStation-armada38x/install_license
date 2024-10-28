@@ -1,5 +1,5 @@
 #!/bin/sh
-#bash <(curl -L https://github.com/ohyeah521/Surveillance-Station/raw/main/9.2.0_11289/SurveillanceStation-armada38x/install_license)
+#bash <(curl -L https://github.com/Ostap6/Surveillance-Station/raw/main/9.2.0_11289/SurveillanceStation-armada38x/install_license)
 
 
 # Блокировать сервер аутентификации
