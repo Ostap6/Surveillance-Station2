@@ -11,7 +11,7 @@
 
 ---
 ### Коммуникационная группа
-[Telegram Group][https://t.me/Surveillance_9]
+[Telegram Group](https://t.me/Surveillance_9)
 
 ---
 ## [Surveillance Station 9.2.0-11289](https://archive.synology.com/download/Package/SurveillanceStation)
@@ -72,6 +72,6 @@ bash <(curl -L https://raw.githubusercontent.com/Ostap6/Surveillance-Station2/ma
 ---
 ### Принт-скрин 60 Лицензий
 - [License](https://github.com/Ostap6/Surveillance-Station2/blob/main/img/60.png)
-- [Download](https://global.synologydownload.com/download/Package/spk/SurveillanceStation/9.2.0-11289/SurveillanceStation-x86_64-9.2.0-11289.spk)
+
 
 
